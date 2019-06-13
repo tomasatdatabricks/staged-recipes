@@ -61,11 +61,12 @@ about:
   home: https://github.com/databricks/databricks-cli
   license: Apache 2.0
   license_family: APACHE
-  license_file: 
+  license_file: LICENSE
   summary: A command line interface for Databricks
   doc_url: 
-  dev_url: 
+  dev_url: https://github.com/databricks/databricks-cli
 
 extra:
   recipe-maintainers:
     - andrewmchen
+    - jaroslawk
